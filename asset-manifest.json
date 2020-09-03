@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/www.brothers-pizza.cz/static/css/main.889d5551.chunk.css",
-    "main.js": "/www.brothers-pizza.cz/static/js/main.a494540f.chunk.js",
-    "main.js.map": "/www.brothers-pizza.cz/static/js/main.a494540f.chunk.js.map",
-    "runtime-main.js": "/www.brothers-pizza.cz/static/js/runtime-main.7271c61f.js",
-    "runtime-main.js.map": "/www.brothers-pizza.cz/static/js/runtime-main.7271c61f.js.map",
-    "static/js/2.688cb1af.chunk.js": "/www.brothers-pizza.cz/static/js/2.688cb1af.chunk.js",
-    "static/js/2.688cb1af.chunk.js.map": "/www.brothers-pizza.cz/static/js/2.688cb1af.chunk.js.map",
-    "index.html": "/www.brothers-pizza.cz/index.html",
-    "precache-manifest.14f486d3be577e55d73ac9b774332fb0.js": "/www.brothers-pizza.cz/precache-manifest.14f486d3be577e55d73ac9b774332fb0.js",
-    "service-worker.js": "/www.brothers-pizza.cz/service-worker.js",
-    "static/css/main.889d5551.chunk.css.map": "/www.brothers-pizza.cz/static/css/main.889d5551.chunk.css.map",
-    "static/js/2.688cb1af.chunk.js.LICENSE.txt": "/www.brothers-pizza.cz/static/js/2.688cb1af.chunk.js.LICENSE.txt",
-    "static/media/brothersPizza.svg": "/www.brothers-pizza.cz/static/media/brothersPizza.caa2fbf5.svg"
+    "main.css": "/static/css/main.889d5551.chunk.css",
+    "main.js": "/static/js/main.266493f6.chunk.js",
+    "main.js.map": "/static/js/main.266493f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc3eddf2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc3eddf2.js.map",
+    "static/js/2.688cb1af.chunk.js": "/static/js/2.688cb1af.chunk.js",
+    "static/js/2.688cb1af.chunk.js.map": "/static/js/2.688cb1af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba0fa2723effda50c4be68d4c972f790.js": "/precache-manifest.ba0fa2723effda50c4be68d4c972f790.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.889d5551.chunk.css.map": "/static/css/main.889d5551.chunk.css.map",
+    "static/js/2.688cb1af.chunk.js.LICENSE.txt": "/static/js/2.688cb1af.chunk.js.LICENSE.txt",
+    "static/media/brothersPizza.svg": "/static/media/brothersPizza.caa2fbf5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7271c61f.js",
+    "static/js/runtime-main.dc3eddf2.js",
     "static/js/2.688cb1af.chunk.js",
     "static/css/main.889d5551.chunk.css",
-    "static/js/main.a494540f.chunk.js"
+    "static/js/main.266493f6.chunk.js"
   ]
 }
