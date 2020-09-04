@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.889d5551.chunk.css",
-    "main.js": "/static/js/main.266493f6.chunk.js",
-    "main.js.map": "/static/js/main.266493f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc3eddf2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc3eddf2.js.map",
-    "static/js/2.688cb1af.chunk.js": "/static/js/2.688cb1af.chunk.js",
-    "static/js/2.688cb1af.chunk.js.map": "/static/js/2.688cb1af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ba0fa2723effda50c4be68d4c972f790.js": "/precache-manifest.ba0fa2723effda50c4be68d4c972f790.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.889d5551.chunk.css.map": "/static/css/main.889d5551.chunk.css.map",
-    "static/js/2.688cb1af.chunk.js.LICENSE.txt": "/static/js/2.688cb1af.chunk.js.LICENSE.txt",
-    "static/media/brothersPizza.svg": "/static/media/brothersPizza.caa2fbf5.svg"
+    "main.css": "/BrothersPizza/static/css/main.889d5551.chunk.css",
+    "main.js": "/BrothersPizza/static/js/main.63ab2927.chunk.js",
+    "main.js.map": "/BrothersPizza/static/js/main.63ab2927.chunk.js.map",
+    "runtime-main.js": "/BrothersPizza/static/js/runtime-main.6125d6b9.js",
+    "runtime-main.js.map": "/BrothersPizza/static/js/runtime-main.6125d6b9.js.map",
+    "static/js/2.688cb1af.chunk.js": "/BrothersPizza/static/js/2.688cb1af.chunk.js",
+    "static/js/2.688cb1af.chunk.js.map": "/BrothersPizza/static/js/2.688cb1af.chunk.js.map",
+    "index.html": "/BrothersPizza/index.html",
+    "precache-manifest.ca46595e62b80773cbb5e2f60368233b.js": "/BrothersPizza/precache-manifest.ca46595e62b80773cbb5e2f60368233b.js",
+    "service-worker.js": "/BrothersPizza/service-worker.js",
+    "static/css/main.889d5551.chunk.css.map": "/BrothersPizza/static/css/main.889d5551.chunk.css.map",
+    "static/js/2.688cb1af.chunk.js.LICENSE.txt": "/BrothersPizza/static/js/2.688cb1af.chunk.js.LICENSE.txt",
+    "static/media/brothersPizza.svg": "/BrothersPizza/static/media/brothersPizza.caa2fbf5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc3eddf2.js",
+    "static/js/runtime-main.6125d6b9.js",
     "static/js/2.688cb1af.chunk.js",
     "static/css/main.889d5551.chunk.css",
-    "static/js/main.266493f6.chunk.js"
+    "static/js/main.63ab2927.chunk.js"
   ]
 }
