@@ -1,11 +1,10 @@
 .App {
-  min-height: 120vh;
-  max-width: 200vh;
+  width: 80%;
+  margin: auto;
   text-align: center;
   display: block;
   justify-content: center;
   align-items: center;
-  margin: auto;
 }
 
 .App-logo {
