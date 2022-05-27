@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9c5969e6004e824e70a89940815a296",
+    "revision": "7e4fb4f824cc3b67319b3720e34defbf",
     "url": "/index.html"
   },
   {
-    "revision": "06fe79edb2abcab5a98a",
+    "revision": "868d5fd6cfbfae49cfb7",
     "url": "/static/css/main.576f0470.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d790b8e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06fe79edb2abcab5a98a",
-    "url": "/static/js/main.aad9cbc0.chunk.js"
+    "revision": "868d5fd6cfbfae49cfb7",
+    "url": "/static/js/main.380a5ff8.chunk.js"
   },
   {
     "revision": "a9e7430ad76fa5c7e6c7",
     "url": "/static/js/runtime-main.dc3eddf2.js"
   },
   {
-    "revision": "2a224f796520086c1aa1e2990a273abe",
-    "url": "/static/media/broPizza5.2a224f79.png"
+    "revision": "678ded33ecd8991c3bab960caefdc25b",
+    "url": "/static/media/broPizza6.678ded33.png"
   }
 ]);

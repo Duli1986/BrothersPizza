@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.576f0470.chunk.css",
-    "main.js": "/static/js/main.aad9cbc0.chunk.js",
-    "main.js.map": "/static/js/main.aad9cbc0.chunk.js.map",
+    "main.js": "/static/js/main.380a5ff8.chunk.js",
+    "main.js.map": "/static/js/main.380a5ff8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc3eddf2.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc3eddf2.js.map",
     "static/js/2.d790b8e4.chunk.js": "/static/js/2.d790b8e4.chunk.js",
     "static/js/2.d790b8e4.chunk.js.map": "/static/js/2.d790b8e4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5002200d712d70d64c0ce4c7c9945322.js": "/precache-manifest.5002200d712d70d64c0ce4c7c9945322.js",
+    "precache-manifest.2fb6082a6edd6befe58a3a9403d9c3cd.js": "/precache-manifest.2fb6082a6edd6befe58a3a9403d9c3cd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.576f0470.chunk.css.map": "/static/css/main.576f0470.chunk.css.map",
     "static/js/2.d790b8e4.chunk.js.LICENSE.txt": "/static/js/2.d790b8e4.chunk.js.LICENSE.txt",
-    "static/media/broPizza5.png": "/static/media/broPizza5.2a224f79.png"
+    "static/media/broPizza6.png": "/static/media/broPizza6.678ded33.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc3eddf2.js",
     "static/js/2.d790b8e4.chunk.js",
     "static/css/main.576f0470.chunk.css",
-    "static/js/main.aad9cbc0.chunk.js"
+    "static/js/main.380a5ff8.chunk.js"
   ]
 }
