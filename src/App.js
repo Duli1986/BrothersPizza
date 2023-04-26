@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './broPizza9.png';
+import logo from './broPizza10.png';
 import './App.css';
 
 function App() {
