@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c644a4711b543857ed6b80e4321d8389",
+    "revision": "ffa7115f27e587c8f74f8fe75ef42d0e",
     "url": "/index.html"
   },
   {
-    "revision": "2eef949199b333e1d94c",
+    "revision": "7efc9badc61340901752",
     "url": "/static/css/main.576f0470.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d790b8e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2eef949199b333e1d94c",
-    "url": "/static/js/main.ae6be8ba.chunk.js"
+    "revision": "7efc9badc61340901752",
+    "url": "/static/js/main.14f01af3.chunk.js"
   },
   {
     "revision": "a9e7430ad76fa5c7e6c7",
     "url": "/static/js/runtime-main.dc3eddf2.js"
   },
   {
-    "revision": "7330d26d5d096333c4baeffc5d5ae475",
-    "url": "/static/media/Brothers.7330d26d.jpg"
+    "revision": "235334cdc9a535184d66fa9680e7116e",
+    "url": "/static/media/Brothers2.235334cd.jpg"
   }
 ]);
